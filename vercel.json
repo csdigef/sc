@@ -1,0 +1,7 @@
+{
+  "name": "hi schools",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://www.hkis.edu.hk/$1"}
+  ]
+}
