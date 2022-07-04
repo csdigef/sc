@@ -1,6 +1,7 @@
 {
+  "name": "proxy",
   "version": 2,
   "routes": [
-   {"src": "/(.*)","dest": "https://www.hkis.edu.hk/$1"}
+    {"src": "/(.*)","dest": "https://www.hkis.edu.hk/$1"}
   ]
 }
